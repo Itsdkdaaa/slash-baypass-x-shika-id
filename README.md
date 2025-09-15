@@ -28,5 +28,6 @@
 <img width="1345" height="353" alt="image" src="https://github.com/user-attachments/assets/9210bd75-5138-4f18-b658-d25a682824e2" />
 14. jika sudah satukan file tersebut ke folder yang sama. 
 <img width="937" height="433" alt="image" src="https://github.com/user-attachments/assets/b92414c5-aa0a-4f23-bc1d-432dca3b22cb" />
-15. jalankan file baypass. kemudian jalankan shikanya.
-16. selesai. file shika akan meminta path genshin buka/tutup menu dengan cara insert.
+15. jalankan file baypass maka file baypass akan muncul kemudian close sendirinya. lalu jalankan shikanya.
+16. buka genshin dan masuk pintu.
+16. selesai. buka/tutup menu dengan cara insert.
